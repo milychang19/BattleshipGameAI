@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The `BattleshipGameAI` project is a culmination of the ICS4U1 course, created by Emily Chang and Amelia Voulgaris. The project was developed between December 2020 and January 2021 and is written in Java, utilizing object-oriented programming principles.
+The `BattleshipGameAI` project is a culmination of the ICS4U1 course, created by Emily Chang and Amelia Voulgaris. The project was developed between December 2020 and January 2021 and is written in Java, utilizing object-oriented programming principles. We had a battleship tournament by the end of the semester and got a decent second place.
 
 ## Description
 
@@ -22,19 +22,15 @@ The `BattleshipGameAI` project is a culmination of the ICS4U1 course, created by
 - The AI anticipates the player's ship placement and records hits and misses.
 - The game calculates remaining ships and displays results upon completion.
 
-**Files:**
+## Files
 
 - The project stores information about the player's and computer's grids in separate files.
 - Ships information.
 
-**How to Run:**
+## How to Run
 
 To run the `BattleshipGameAI`, execute the `BattleshipMain.java` file.
 
-**Note:**
+## Note
 
 The player must record their own grid, the file stored of the opponent's grid only shows the hits and misses AI did.
-
-**Acknowledgments:**
-
-This project was developed as part of the ICS4U1 course and serves as a demonstration of object-oriented programming concepts in Java. We had a battleship tournament by the end of the semester and got a decent second place.
